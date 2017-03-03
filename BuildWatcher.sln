@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildWatcher", "BuildWatcher\BuildWatcher.csproj", "{8C7DE8CC-ACA5-4CD0-94F9-5078BDA97215}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console", "Console\Console.csproj", "{EFEF7DE7-3EEF-4E1C-977B-7CD6325B1AD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C7DE8CC-ACA5-4CD0-94F9-5078BDA97215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C7DE8CC-ACA5-4CD0-94F9-5078BDA97215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C7DE8CC-ACA5-4CD0-94F9-5078BDA97215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C7DE8CC-ACA5-4CD0-94F9-5078BDA97215}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFEF7DE7-3EEF-4E1C-977B-7CD6325B1AD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFEF7DE7-3EEF-4E1C-977B-7CD6325B1AD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFEF7DE7-3EEF-4E1C-977B-7CD6325B1AD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFEF7DE7-3EEF-4E1C-977B-7CD6325B1AD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
